@@ -1,5 +1,7 @@
 # aps-viewer-ai-render
 
+# PLEASE SEE THE REPO IN THE AUTODESK PLATFORM SERVICES ORGANIZATION: [https://github.com/autodesk-platform-services/aps-viewer-ai-render](https://github.com/autodesk-platform-services/aps-viewer-ai-render)
+
 ## Introduction
 
 Rendering is a required and sometimes painful part of the process in the lives of designers. With a quick search using the words AI and render you can find a set of solutions already addressing this process with the help of AI models. In this project, we'll share one option to generate a photorealistic scene starting with one image generated from a scene rendered with APS Viewer as input.
